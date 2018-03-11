@@ -1,0 +1,8 @@
+NAME=libtheora
+VERSION=1.1.1
+REVISION=1
+LICENSE=BSD-3-Clause
+SRC=https://downloads.xiph.org/releases/theora/libtheora-1.1.1.tar.xz
+SRCMD5=9eeabf1ad65b7f41533854a59f7a716d
+BUILDDEPS=libogg libvorbis
+INSTALLDEPS=libogg libvorbis
